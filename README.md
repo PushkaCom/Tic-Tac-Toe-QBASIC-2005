@@ -39,3 +39,8 @@ Qbasic is a terminal programming system, you can run qbasic
 online and see my project running in browser at
 https://basic.pushka.com
 
+## This code sucks
+
+There are 1,270 lines of code, 
+
+There are 126 GOTO statements
