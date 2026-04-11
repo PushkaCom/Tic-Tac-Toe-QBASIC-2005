@@ -4,7 +4,6 @@ Tic Tac Toe game with 3 difficulties, perfect-completed-game brute force no prog
 ## Readme from 2005
 
 pushka's Programs.
-```````````````````
 
 These are my two major projects for 
 Software Design and Development 2005, 2006.
