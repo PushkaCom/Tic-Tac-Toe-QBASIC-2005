@@ -24,7 +24,11 @@ To exit:
 
 ## About
 
-This was my software design project for year 11 high-school, with minimal programming exp. and knowledge, I brute forced 3 difficulties and a perfected completed game AI for tic-tac-toe that wins or draws only. brute force - more than 100 GOTO statement (jump from here to x location in the code)
+This was my software design project for year 11 high-school,
+with minimal programming exp. and knowledge, I brute forced 3
+difficulties and a perfected completed game AI for tic-tac-toe
+that wins or draws only. brute force - more than 100 GOTO
+statement (jump from here to x location in the code)
 
 it's terrible, but I made it work with the tools I had,
 
@@ -32,5 +36,7 @@ everyone else was using visual-basic, and i was like no, give me text ~
 
 ## QBASIC
 
-Qbasic is a terminal programming system, you can run qbasic online and see my project running in browser at https://basic.pushka.com
+Qbasic is a terminal programming system, you can run qbasic
+online and see my project running in browser at
+https://basic.pushka.com
 
