@@ -36,8 +36,10 @@ everyone else was using visual-basic, and i was like no, give me text ~
 ## QBASIC
 
 Qbasic is a terminal programming system, you can run qbasic
-online and see my project running in browser at
-https://basic.pushka.com
+online via javascript version in browser:
+
+Copy and paste TicTacToe_QBJS.BAS 
+into --> https://basic.pushka.com
 
 ## This code sucks
 
