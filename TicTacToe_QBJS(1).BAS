@@ -233,7 +233,7 @@ SUB DrawBoard
     LINE (100,50)-(100,200)
     LINE (150,50)-(150,200)
     COLOR 12
-    LOCATE 14,5: PRINT "Welcome to Ben Gibiec's asignment for year 11, have a nice day."
+    LOCATE 14,5: PRINT "Welcome to Pushka's asignment for year 11, have a nice day."
     LOCATE 16,5: PRINT "Restart the program with '100'. End with '200' (the number then enter)"
     LOCATE 18,5: PRINT "For help press '300'. The game will resume after reading."
     LOCATE 20,5: PRINT "Press a number on the keypad that corosponds to the grid, then enter."
