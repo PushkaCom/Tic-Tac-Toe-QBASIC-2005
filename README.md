@@ -46,3 +46,9 @@ into --> https://basic.pushka.com
 There are 1,270 lines of code, 
 
 There are 126 GOTO statements
+
+## Preview
+
+![Preview](z-preview.png)
+
+
