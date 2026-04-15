@@ -125,7 +125,7 @@ COLOR 12
 LOCATE 14, 5                    'positioning
 myrow% = CSRLIN
 mycol% = POS(0)
-PRINT "Welcome to Ben Gibiec's asignment for year 11, have a nice day."
+PRINT "Welcome to Pushka's asignment for year 11, have a nice day."
 LOCATE 16, 5                         'positioning
 myrow% = CSRLIN
 mycol% = POS(0)
