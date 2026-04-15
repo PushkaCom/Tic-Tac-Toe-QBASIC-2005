@@ -1,5 +1,5 @@
 ' ============================================================
-' Ben Gibiec's Tic Tac Toe - Year 11 Assignment
+' Pushka's Tic Tac Toe - Year 11 Assignment
 ' QBJS compatible version - uses SUB/FUNCTION + DO/WHILE loops
 ' No GOTO or GOSUB anywhere.
 ' ============================================================
